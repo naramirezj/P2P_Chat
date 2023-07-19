@@ -1,2 +1,2 @@
 # P2P_Chat
-C implementation of a chat that allows to send messages between computers without the need for a central server.
+C implementation of a peer-to-peer chat that allows to send messages between connected systems without a central server.
